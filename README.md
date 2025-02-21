@@ -3,7 +3,9 @@ Olá,<br/>
 Sou uma programadora amadora nos meus primeiros passos! 👩‍💻 <br/>
 
 # Linguagens
-💻básico em HTML, R e Python<br/>
+💻básico em HTML<br/>
+®️básico em R<br/>
+🐍básico em Python<br/>
 
 # Interesses
 🤖Inteligência artificial e Machine Learning<br/>
